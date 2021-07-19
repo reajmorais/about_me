@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @reajmorais!
-- 👀 I’m interested in building a nice portfolio and learn a tiny bit every day.
-- 🌱 I’m currently studying Computing Science at Universidade Federal de Campina Grande (UFCG)
+- 👀 I’m interested in building a nice portfolio here on Git and learn a tiny bit every day. Since takes some practice to learn, and I'm just starting, I'll try to submit little projects every now and then.
+- 🌱 I’m currently studyingat Universidade Federal de Campina Grande (UFCG). I'm on my first semester on my major, Computing Science.
 - 💞️ For now, I need to learn more before start collaborating, but as soon as I feel ready, count me in!
 - 📫 Reach me through my e-mail: reajmorais@gmail.com!
 
